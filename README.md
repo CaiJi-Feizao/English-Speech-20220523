@@ -6,3 +6,5 @@ For English Speech on May 23rd, 2022
 - 缘由：受迫振动(确信)
 - 编写语言：Python
 - 本部分的Source Code包含了演讲的manim视频部分(无音频)，但Releases中为manim视频部分+完整版
+- 视频所用为原神2.7 PV：https://www.bilibili.com/video/BV18F411L7Nj 
+- 背景音乐为：
